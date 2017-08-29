@@ -1,0 +1,36 @@
+﻿  tesk13_2.cpp
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(54): error C2059: 语法错误:“=”
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(54): error C2530: “Employee::operater”: 必须初始化引用
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(68): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(69): error C2511: “Employee::Employee(const int)”:“Employee”中没有找到重载的成员函数
+  d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(49): note: 参见“Employee”的声明
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(70): error C2597: 对非静态成员“Employee::id_”的非法引用
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(71): error C2065: “name”: 未声明的标识符
+d:\ugforwork\12-\13_tesk\13_tesk\tesk13_2.cpp(42): error C3867: “Message::add_to_Folders”: 非标准语法；请使用 "&" 来创建指向成员的指针
+d:\ugforwork\12-\13_tesk\13_tesk\tesk13_2.cpp(162): error C2084: 函数“StrVec::StrVec(const StrVec &)”已有主体
+  d:\ugforwork\12-\13_tesk\13_tesk\tesk13_2.cpp(149): note: 参见“{ctor}”的前一个定义
+  ex13_42_TextQuery.cpp
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(54): error C2059: 语法错误:“=”
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(54): error C2530: “Employee::operater”: 必须初始化引用
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(68): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(69): error C2511: “Employee::Employee(const int)”:“Employee”中没有找到重载的成员函数
+  d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(49): note: 参见“Employee”的声明
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(70): error C2597: 对非静态成员“Employee::id_”的非法引用
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(71): error C2065: “name”: 未声明的标识符
+d:\ugforwork\12-\13_tesk\13_tesk\ex13_42_textquery.cpp(15): error C2039: “back_inserter”: 不是“std”的成员
+  d:\program files (x86)\visualstudio\vc\include\algorithm(14): note: 参见“std”的声明
+d:\ugforwork\12-\13_tesk\13_tesk\ex13_42_textquery.cpp(15): error C3861: “back_inserter”: 找不到标识符
+d:\ugforwork\12-\13_tesk\13_tesk\ex13_42_textquery.cpp(37): error C2039: “at”: 不是“StrVec”的成员
+  d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(179): note: 参见“StrVec”的声明
+  13_tesk.cpp
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(54): error C2059: 语法错误:“=”
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(54): error C2530: “Employee::operater”: 必须初始化引用
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(68): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(69): error C2511: “Employee::Employee(const int)”:“Employee”中没有找到重载的成员函数
+  d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(49): note: 参见“Employee”的声明
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(70): error C2597: 对非静态成员“Employee::id_”的非法引用
+d:\ugforwork\12-\13_tesk\13_tesk\13_tesk.h(71): error C2065: “name”: 未声明的标识符
+  正在生成代码...

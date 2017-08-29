@@ -1,0 +1,13 @@
+﻿  wordquery.cpp
+  textquery.cpp
+  query_base.cpp
+  queryresult.cpp
+  query.cpp
+  orquery.cpp
+  notquery.cpp
+  main.cpp
+  binaryquery.cpp
+  andquery.cpp
+  正在生成代码...
+  42ti.vcxproj -> D:\ugforwork\12-\tesk15\Debug\42ti.exe
+  42ti.vcxproj -> D:\ugforwork\12-\tesk15\Debug\42ti.pdb (Full PDB)

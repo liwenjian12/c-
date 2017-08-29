@@ -1,0 +1,30 @@
+﻿生成启动时间为 2016/10/25 20:45:50。
+     1>项目“D:\ugforwork\vs2010\第七章\screen\screen\screen.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\screen.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Screen.cpp using_screen.cpp
+         using_screen.cpp
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(27): error C2958: 左 圆括号“(”(在“d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(13)”中找到)未能正确匹配
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(27): error C2969: 语法错误:“;”: 成员函数定义应以“}”结尾
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C2039: “vector”: 不是“std”的成员
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\ugforwork\vs2010\第七章\screen\screen\using_screen.cpp(11): fatal error C1004: 发现意外的文件尾
+         Screen.cpp
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(27): error C2958: 左 圆括号“(”(在“d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(13)”中找到)未能正确匹配
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(27): error C2969: 语法错误:“;”: 成员函数定义应以“}”结尾
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C2039: “vector”: 不是“std”的成员
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>d:\ugforwork\vs2010\第七章\screen\screen\screen.cpp(30): error C2535: “void Screen::some_member(void) const”: 已经定义或声明成员函数
+                 d:\ugforwork\vs2010\第七章\screen\screen\srceen.h(10) : 参见“Screen::some_member”的声明
+     1>d:\ugforwork\vs2010\第七章\screen\screen\screen.cpp(35): fatal error C1004: 发现意外的文件尾
+         正在生成代码...
+     1>已完成生成项目“D:\ugforwork\vs2010\第七章\screen\screen\screen.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.82

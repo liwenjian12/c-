@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/9/19 16:06:06。
+     1>项目“D:\ugforwork\vs2010\第二章\limits\limits\limits.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\ugforwork\vs2010\第二章\limits\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\limits.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\limits.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\limits.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt limits.cpp
+         limits.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\limits.exe.embed.manifest.res" Debug\limits_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ugforwork\vs2010\第二章\limits\Debug\limits.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\limits.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ugforwork\vs2010\第二章\limits\Debug\limits.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ugforwork\vs2010\第二章\limits\Debug\limits.lib" /MACHINE:X86 Debug\limits.exe.embed.manifest.res
+         Debug\limits.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\limits.exe.embed.manifest" /manifest Debug\limits.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\limits.exe.embed.manifest.res" Debug\limits_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ugforwork\vs2010\第二章\limits\Debug\limits.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\limits.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ugforwork\vs2010\第二章\limits\Debug\limits.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ugforwork\vs2010\第二章\limits\Debug\limits.lib" /MACHINE:X86 Debug\limits.exe.embed.manifest.res
+         Debug\limits.obj
+         Debug\stdafx.obj
+         limits.vcxproj -> D:\ugforwork\vs2010\第二章\limits\Debug\limits.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\limits.unsuccessfulbuild”。
+         正在对“Debug\limits.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ugforwork\vs2010\第二章\limits\limits\limits.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.91

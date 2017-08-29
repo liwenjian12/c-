@@ -1,0 +1,6 @@
+﻿  9_tesk.cpp
+d:\ugforwork\12-\9_tesk\9_tesk\9_tesk.cpp(45): error C2601: “add_pre_and_suffix”: 本地函数定义是非法的
+  d:\ugforwork\12-\9_tesk\9_tesk\9_tesk.cpp(29): note: 此行有一个“{”没有匹配项
+d:\ugforwork\12-\9_tesk\9_tesk\9_tesk.cpp(50): error C2601: “main”: 本地函数定义是非法的
+  d:\ugforwork\12-\9_tesk\9_tesk\9_tesk.cpp(29): note: 此行有一个“{”没有匹配项
+d:\ugforwork\12-\9_tesk\9_tesk\9_tesk.cpp(29): fatal error C1075: 左侧的 大括号“{” 与文件结尾不匹配

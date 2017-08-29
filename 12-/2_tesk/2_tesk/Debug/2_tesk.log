@@ -1,0 +1,5 @@
+﻿  2_tesk.cpp
+d:\ugforwork\12-\2_tesk\2_tesk\2_tesk.cpp(5): error C2628: “Foo”后面接“int”是非法的(是否忘记了“;”?)
+d:\ugforwork\12-\2_tesk\2_tesk\2_tesk.cpp(6): error C3874: “main”的返回类型应为“int”而非“Foo”
+d:\ugforwork\12-\2_tesk\2_tesk\2_tesk.cpp(28): error C2440: “return”: 无法从“int”转换为“Foo”
+  d:\ugforwork\12-\2_tesk\2_tesk\2_tesk.cpp(28): note: 无构造函数可以接受源类型，或构造函数重载决策不明确

@@ -1,0 +1,44 @@
+﻿  Query.cpp
+d:\ugforwork\12-\tesk15\query\queryresult.h(20): error C2653: “TextQuery”: 不是类或命名空间名称
+d:\ugforwork\12-\tesk15\query\queryresult.h(20): error C2065: “line_no”: 未声明的标识符
+d:\ugforwork\12-\tesk15\query\queryresult.h(20): error C2923: “std::set”: 对于参数“_Kty”，“line_no”不是有效的 模板 类型变量
+d:\ugforwork\12-\tesk15\query\queryresult.h(20): error C3203: “less”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Pr”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(20): error C3203: “allocator”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Alloc”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(20): error C3203: “set”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Ty”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(29): error C2653: “TextQuery”: 不是类或命名空间名称
+d:\ugforwork\12-\tesk15\query\queryresult.h(29): error C2065: “line_no”: 未声明的标识符
+d:\ugforwork\12-\tesk15\query\queryresult.h(29): error C2923: “std::set”: 对于参数“_Kty”，“line_no”不是有效的 模板 类型变量
+d:\ugforwork\12-\tesk15\query\queryresult.h(29): error C3203: “less”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Pr”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(29): error C3203: “allocator”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Alloc”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(30): error C2955: “std::set”: 使用 类 模板 需要 模板 参数列表
+  d:\program files (x86)\visualstudio\vc\include\set(43): note: 参见“std::set”的声明
+d:\ugforwork\12-\tesk15\query\queryresult.h(32): error C2653: “TextQuery”: 不是类或命名空间名称
+d:\ugforwork\12-\tesk15\query\queryresult.h(32): error C2065: “line_no”: 未声明的标识符
+d:\ugforwork\12-\tesk15\query\queryresult.h(32): error C2923: “std::set”: 对于参数“_Kty”，“line_no”不是有效的 模板 类型变量
+d:\ugforwork\12-\tesk15\query\queryresult.h(32): error C3203: “less”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Pr”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(32): error C3203: “allocator”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Alloc”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(33): error C2955: “std::set”: 使用 类 模板 需要 模板 参数列表
+  d:\program files (x86)\visualstudio\vc\include\set(43): note: 参见“std::set”的声明
+d:\ugforwork\12-\tesk15\query\queryresult.h(40): error C2653: “TextQuery”: 不是类或命名空间名称
+d:\ugforwork\12-\tesk15\query\queryresult.h(40): error C2065: “line_no”: 未声明的标识符
+d:\ugforwork\12-\tesk15\query\queryresult.h(40): error C2923: “std::set”: 对于参数“_Kty”，“line_no”不是有效的 模板 类型变量
+d:\ugforwork\12-\tesk15\query\queryresult.h(40): error C3203: “less”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Pr”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(40): error C3203: “allocator”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Alloc”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(40): error C3203: “set”: 未专用化的 类 模板 不能用作 模板 变量，该变量属于 模板 参数“_Ty”，应为 real 类型
+d:\ugforwork\12-\tesk15\query\queryresult.h(30): error C2839: 重载的“operator ->”的无效返回类型“int *”
+d:\ugforwork\12-\tesk15\query\queryresult.h(30): error C2039: “begin”: 不是“std::shared_ptr<int>”的成员
+  d:\ugforwork\12-\tesk15\query\queryresult.h(21): note: 参见“std::shared_ptr<int>”的声明
+d:\ugforwork\12-\tesk15\query\queryresult.h(33): error C2839: 重载的“operator ->”的无效返回类型“int *”
+d:\ugforwork\12-\tesk15\query\queryresult.h(33): error C2039: “end”: 不是“std::shared_ptr<int>”的成员
+  d:\ugforwork\12-\tesk15\query\queryresult.h(21): note: 参见“std::shared_ptr<int>”的声明
+d:\ugforwork\12-\tesk15\query\queryresult.h(52): error C2839: 重载的“operator ->”的无效返回类型“int *”
+d:\ugforwork\12-\tesk15\query\queryresult.h(52): error C2039: “size”: 不是“std::shared_ptr<int>”的成员
+  d:\ugforwork\12-\tesk15\query\queryresult.h(21): note: 参见“std::shared_ptr<int>”的声明
+d:\ugforwork\12-\tesk15\query\queryresult.h(54): error C3312: 未找到可调用的“begin”函数(针对类型“std::ios_base::iostate”)
+d:\ugforwork\12-\tesk15\query\queryresult.h(54): error C3312: 未找到可调用的“end”函数(针对类型“std::ios_base::iostate”)
+d:\ugforwork\12-\tesk15\query\queryresult.h(55): error C2065: “index”: 未声明的标识符
+d:\ugforwork\12-\tesk15\query\queryresult.h(56): error C2065: “index”: 未声明的标识符
+d:\ugforwork\12-\tesk15\query\query.h(59): error C2440: “<function-style-cast>”: 无法从“initializer list”转换为“QueryResult”
+  d:\ugforwork\12-\tesk15\query\query.h(59): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+d:\ugforwork\12-\tesk15\query\query.h(61): error C2440: “<function-style-cast>”: 无法从“initializer list”转换为“QueryResult”
+  d:\ugforwork\12-\tesk15\query\query.h(61): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
